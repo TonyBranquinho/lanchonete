@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Lanchonete\Lanchonete\obj\Debug\Lanchonete.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Lanchonete\Lanchonete\obj\Debug\Lanchonete.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Lanchonete\Lanchonete\bin\Debug\Lanchonete.exe.config
+C:\temp\ws-vs2019\Lanchonete\Lanchonete\bin\Debug\Lanchonete.exe
+C:\temp\ws-vs2019\Lanchonete\Lanchonete\bin\Debug\Lanchonete.pdb
+C:\temp\ws-vs2019\Lanchonete\Lanchonete\obj\Debug\Lanchonete.exe
+C:\temp\ws-vs2019\Lanchonete\Lanchonete\obj\Debug\Lanchonete.pdb
